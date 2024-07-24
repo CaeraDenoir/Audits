@@ -2,7 +2,7 @@
 
 You can reach out for security consultancy and reviews via:
 
-- **X:** @0xCaera
+- **X:** [@0xCaera](https://x.com/0xCaera)
 - **Discord:** @tayver
 - **Telegram:** @z0xCaera
 
