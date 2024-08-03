@@ -12,10 +12,11 @@ For private audits, I can be contacted through Twitter, Discord or Telegram.
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 7 High 11 Medium 1 Low  | $1,640.68 |
+| 7 High 11 Medium 1 Low  | $5,215.68 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|July 2024 | CCIP | Codehawks | 1 Medium 1 Low |$2,575|
 |June 2024 | ThorChain | Code4rena | 1 High 2 Medium |$153.75 |
 |May 2024  | [Possum](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Adapters-Security-Review.pdf) | ShieldifyPPV | 1 Medium 1 low | $300|
 |April 2024  | [DYAD](https://code4rena.com/reports/2024-04-dyad) | Code4rena | 1 Medium | $7.35|
